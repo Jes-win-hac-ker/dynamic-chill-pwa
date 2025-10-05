@@ -1,9 +1,9 @@
 const CACHE_NAME = 'dynamic-refrigeration-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/images/logo.jpg',
-  '/manifest.json'
+  '/dynamic-chill-pwa/',
+  '/dynamic-chill-pwa/index.html',
+  '/dynamic-chill-pwa/images/logo.jpg',
+  '/dynamic-chill-pwa/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {

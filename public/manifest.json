@@ -2,7 +2,7 @@
   "name": "Dynamic Refrigeration",
   "short_name": "Dynamic Ref",
   "description": "Industrial & Commercial Refrigeration Solutions",
-  "start_url": "/",
+  "start_url": "/dynamic-chill-pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2B5AA0",
