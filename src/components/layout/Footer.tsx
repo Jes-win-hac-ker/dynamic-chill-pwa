@@ -95,7 +95,9 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 mt-1 flex-shrink-0" />
                 <span className="text-primary-foreground/80">
-                  Industrial Area, Business District, City, India
+                  Chittattukara Building, Post Office Road, Varadiyam<br />
+                  Avanoor P.O – Thrissur (Dt.)<br />
+                  Kerala – India. 680541
                 </span>
               </li>
               <li className="flex items-center space-x-3">

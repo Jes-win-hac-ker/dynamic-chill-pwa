@@ -43,11 +43,10 @@ const About = () => {
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6">
-                About Dynamic Refrigeration
+                We Keep Your Industrial Refrigeration Equipment Operational & Efficient
               </h1>
               <p className="text-xl text-white/90">
-                Leading the industry with innovative refrigeration solutions and
-                unmatched expertise
+                Your refrigeration equipment is the workhorse of your business. When it runs well, your business runs smoothly and efficiently. One hiccup can lead to downtime and lost sales. With 15+ years of experience in industrial refrigeration and air-conditioning, we assure quick installation, upgrades, and reliable service support. Our scheduled maintenance is the core of our service—we identify and correct issues before they become emergencies.
               </p>
             </div>
           </div>
@@ -80,28 +79,17 @@ const About = () => {
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-8">
-                Our Story
+                Why Choose Us
               </h2>
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p>
-                  Dynamic Refrigeration was founded with a vision to transform
-                  the industrial refrigeration landscape in India. Starting as a
-                  small operation, we've grown into one of the most trusted names
-                  in the industry, serving diverse sectors including food
-                  processing, marine exports, pharmaceuticals, and more.
+                  We understand how critical your refrigeration equipment is to your business. Our team is dedicated to keeping your systems running at peak efficiency, minimizing downtime and maximizing reliability. With our quick installation, upgrades, and responsive service support, you can focus on your business while we handle the technical details.
                 </p>
                 <p>
-                  Our journey has been marked by continuous innovation, unwavering
-                  commitment to quality, and a deep understanding of our clients'
-                  needs. We combine cutting-edge technology with decades of
-                  expertise to deliver refrigeration solutions that are not just
-                  effective, but also energy-efficient and sustainable.
+                  Scheduled maintenance is the foundation of our service. We proactively identify and resolve issues before they impact your operations, helping you avoid costly emergencies and unexpected breakdowns.
                 </p>
                 <p>
-                  Today, we pride ourselves on being more than just a service
-                  provider. We're partners in our clients' success, offering
-                  comprehensive solutions from initial consultation and
-                  installation to ongoing maintenance and support.
+                  Our experience and commitment to customer satisfaction make us a trusted partner for industrial refrigeration and air-conditioning solutions.
                 </p>
               </div>
             </div>
